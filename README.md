@@ -1,7 +1,7 @@
-## games-on-ti-84-ce-python
+# games-on-ti-84-ce-python
 Guide on how to install games on the TI-84+ CE Python Edition
 
-# Section 0- What you need
+### Section 0- What you need
 • An Internet connection
 • A USB A - USB B Mini Cable
 • A laptop
@@ -19,4 +19,4 @@ Go to the apps menu, and you should see `4: Cesium`.
 >If you see this, you have successfully completed the setup process, and can proceed to the next section.
 >
 
-# Section 2- The fun part
+### Section 2- The fun part
