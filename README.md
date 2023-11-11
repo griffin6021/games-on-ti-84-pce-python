@@ -20,7 +20,7 @@ Go to the apps menu, and you should see `4: Cesium`. Press `clear`.
 >
 
 ## Section 2- The fun part :slightly_smiling_face:
-We have set up your calculator, and now we can install all sorts of games, found off of the form at [](https://www.cemetech.net/downloads/browse/84pce/asm/games). In the `games` branch of this repo, I have a few game files already there. You install these the same way you installed the first three files in Section 1,  using [](ticalc.link).
+We have set up your calculator, and now we can install all sorts of games, found off of the form at https://www.cemetech.net/downloads/browse/84pce/asm/games . In the `games` branch of this repo, I have a few game files already there. You install these the same way you installed the first three files in Section 1,  using [](ticalc.link).
 >Due to the amount of RAM on a calculator, it is recommended to install a maximum of __4__ games for your calculator to still be able to run smoothly.
 >
 __While installing games, do not open `Cesium` or the file transfer will fail. Press `clear` to exit most games and `Cesium.`
