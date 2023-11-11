@@ -20,4 +20,4 @@ Go to the apps menu, and you should see `4: Cesium`.
 >
 
 ## Section 2- The fun part
-We have set up your calculator, and now we can install all sorts of games, found off of the from at 
+We have set up your calculator, and now we can install all sorts of games, found off of the form at [](https://www.cemetech.net/downloads/browse/84pce/asm/games)
