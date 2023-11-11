@@ -1,13 +1,13 @@
 # games-on-ti-84-ce-python
-Guide on how to install games on the TI-84+ CE Python Edition
+Guide on how to install games on the TI-84+ CE Python Edition. __This guide is for the Python edition exclusivley, because it has more RAM and it is faster. The results are not guaranteed if you use the regular TI-84+ CE.__
 
-# Section 0- What you need
+## Section 0- What you need
 • An Internet connection
-• A USB A - USB B Mini Cable
+• A USB A - USB B Mini Cable (charging cable)
 • A laptop
 • Your calculator
 
-# Section 1- Setup
+## Section 1- Setup
 Go to your apps menu, and verify it has the app `2: CabriJr` installed.
 Create a wired connection from your PC to your CE via the cable, and then visit the site [](ticalc.link) and follow the instructions. (If a warning message appears, disregard it and continue)
 __While completing this portion of the guide, do not sever the connection or power off the calculator.__
@@ -19,5 +19,5 @@ Go to the apps menu, and you should see `4: Cesium`.
 >If you see this, you have successfully completed the setup process, and can proceed to the next section.
 >
 
-# Section 2- The fun part
-We have set up your calculator, 
+## Section 2- The fun part
+We have set up your calculator, and now we can install all sorts of games, found off of the from at 
