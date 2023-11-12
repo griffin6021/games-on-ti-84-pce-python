@@ -1,5 +1,7 @@
 # games-on-ti-84-pce-python
-Guide on how to install games on the TI-84+ CE Python Edition. __This guide is for the Python edition exclusivley, because it has more RAM and it is faster. The results are not guaranteed if you use the regular TI-84+ CE.__
+Guide on how to install games on the TI-84+ CE Python Edition. 
+> [!WARNING]
+> This guide is for the Python edition exclusivley, because it has more RAM and it is faster. The results are not guaranteed if you use the regular TI-84+ CE.
 
 ## Section 0- What you need
 • An Internet connection
