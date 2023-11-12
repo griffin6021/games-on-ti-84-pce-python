@@ -23,7 +23,7 @@ Go to the apps menu, and you should see `4: Cesium`. Press `clear`.
 We have set up your calculator, and now we can install all sorts of games, found off of the form at https://www.cemetech.net/downloads/browse/84pce/asm/games . In the `games` branch of this repo, I have a few game files already there. You install these the same way you installed the first three files in Section 1,  using [](ticalc.link) .
 >Due to the amount of RAM on a calculator, it is recommended to install a maximum of __4__ games for your calculator to still be able to run smoothly.
 >
-__While installing games, do not open `Cesium` or the file transfer will fail. Press `clear` to exit most games and `Cesium`.
+__While installing games, do not open `Cesium` or the file transfer will fail.__ Press `clear` to exit most games and `Cesium`.
 Note that some games may require multiple files, and the limitations of [](ticalc.link) are that it can only transfer one file at a time.
 >Congrats! You have now installed games on your TI84+ CE Python. Have fun!
 >
