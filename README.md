@@ -27,5 +27,5 @@ We have set up your calculator, and now we can install all sorts of games, found
 >
 __While installing games, do not open `Cesium` or the file transfer will fail.__ Press `clear` to exit most games and `Cesium`.
 Note that some games may require multiple files, and the limitations of [](ticalc.link) are that it can only transfer one file at a time.
->Congrats! You have now installed games on your TI84+ CE Python. Have fun!
+>Congrats! You have now installed games on your TI84+ CE Python. Have fun! :shipit:
 >
