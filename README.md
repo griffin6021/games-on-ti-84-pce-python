@@ -16,7 +16,7 @@ __While completing this portion of the guide onward, do not sever the connection
 Install the files `arTIfiCE.8xv` `cesium.8xp` and `clibs.8xg`. `arTIfiCE` is a shell that you can run applications on, `Cesium` jailbreaks the calculator and allows you to run games, and `clibs` (C libraries) is some files that some games need to run.
 >We will now run arTIfiCE and start to wrap up the setup process.
 >
-Launch CabriJr from the apps menu, and press `y=`, `5` and `enter`. Press `enter` once more, and then press `del` when prompted, and then `mode`.
+Launch CabriJr from the apps menu, and press `y=`, `5` and `enter`. Press `enter` once more, then press `del` when prompted, and then `mode`.
 Go to the apps menu, and you should see `4: Cesium`. Press `clear`.
 >If you see this, you have successfully completed the setup process, and can proceed to the next section. :tada:
 >
