@@ -3,6 +3,9 @@ Guide on how to install games on the TI-84+ CE Python Edition.
 > [!WARNING]
 > This guide is for the Python edition exclusivley, because it has more RAM and it is faster. The results are not guaranteed if you use the regular TI-84+ CE.
 
+> [!IMPORTANT]
+> If your calculator dies, has it's RAM cleared, or has the `reset` button on the back pushed, you will have to reinstall all of your games. You will not have to reinstall `Cesium` or `arTIfiCE`.
+
 ## Section 0- What you need
 • An Internet connection
 • A USB A - USB B Mini Cable (charging cable)
